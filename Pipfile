@@ -14,6 +14,8 @@ python-slugify = "*"
 matplotlib = "*"
 pyodbc = "*"
 meza = "*"
+pyLD = "*"
+rdflib = "*"
 
 [requires]
-python_version = "3.10"
+python_version = "3.11"
