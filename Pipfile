@@ -16,6 +16,7 @@ pyodbc = "*"
 meza = "*"
 pyLD = "*"
 rdflib = "*"
+pysolr = "*"
 
 [requires]
 python_version = "3.11"
