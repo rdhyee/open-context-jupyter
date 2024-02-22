@@ -17,7 +17,7 @@ meza = "*"
 pyLD = "*"
 rdflib = "*"
 pysolr = "*"
-arrow = "*"
+pyarrow = "*"
 
 [requires]
 python_version = "3.11"
