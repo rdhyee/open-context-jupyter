@@ -6,14 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-requests = "*"
 pandas = "*"
-numpy = "*"
-jupyter = "*"
-python-slugify = "*"
-matplotlib = "*"
-pyodbc = "*"
-meza = "*"
 pyLD = "*"
 rdflib = "*"
 pysolr = "*"
