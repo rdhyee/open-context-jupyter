@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+jupyter
+python-slugify
+matplotlib
+pyodbc
+meza
+pyLD
+rdflib
+pysolr
+pyarrow
